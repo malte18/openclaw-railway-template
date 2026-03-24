@@ -1,0 +1,2 @@
+# No external dependencies - uses stdlib only (urllib, json, argparse)
+# This is intentional: keeps the Docker image small and deployment simple.
